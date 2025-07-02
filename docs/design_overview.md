@@ -47,3 +47,4 @@ OilRigSim/
    - Build the game for the target platform(s) and distribute.
 
 This outline should help you get started. As development progresses, create additional documentation for specific systems, assets, and scripts.
+See `features.md` in this directory for a summary of planned gameplay features.
